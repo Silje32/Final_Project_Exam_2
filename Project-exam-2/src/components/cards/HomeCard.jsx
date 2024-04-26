@@ -1,0 +1,22 @@
+import ViewAllProfilesButton from "../buttons/ViewAllProfilesButton";
+import PostList from "../posts/PostList";
+import ProfileFilter from "../searchbar/ProfilesFilter";
+import { StyledHomeCard, StyledFlex } from "./StyledCard.styles";
+
+
+function HomeCard() {
+
+    return (  
+       <>
+         <StyledHomeCard>
+          <StyledFlex>
+           <ViewAllProfilesButton />
+              <ProfileFilter />
+              <PostList />        
+          </StyledFlex>   
+         </StyledHomeCard>
+       </>
+    );
+}
+
+export default HomeCard;
