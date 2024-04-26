@@ -48,17 +48,9 @@ In your .env file write the API URL. You also need to create an .env.example fil
 
 
 ##### ICONS : 
-01. For the Icons you will need to install react-icons from Fontawesome:
-In the terminal in VSC write; "npm i react-icons". 
+01. For the Icons go to the webpage https://getemoji.com/
+You can copy paste the icons directly to your code.
 
-SVG ICON PACKAGES:
-npm i --save @fortawesome/fontawesome-svg-core
-npm i --save @fortawesome/free-solid-svg-icons
-npm i --save @fortawesome/react-fontawesome
-
-
-THE FREE PACKAGE: 
-npm install --save @fortawesome/fontawesome-free
 
 
 
