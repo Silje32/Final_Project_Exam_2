@@ -2,24 +2,28 @@
 ## Brief
 An existing Social Media company has approached you to create a brand new front end for their application. While they have a list of required features, the design and user experience has not been specified. Working with the official API documentation, plan, design and build a modern front end social media application.
 
-## Requirements
-> All admin functionality is managed by an existing application. This project only covers the front-end application for the API.
-
-## API
-
-The API you are using for this project can be found under Social EndPoints in the [Noroff API documentation](https://noroff-api-docs.netlify.app/).
+## Description
+All admin functionality is managed by an existing application. This project only covers the front-end application for the API. The API you are using for this project can be found under Social EndPoints in the [Noroff API documentation](https://noroff-api-docs.netlify.app/).
 
 [API Guide](https://noroff-api-docs.netlify.app/social-endpoints/authentication)
 [API Documentation](https://nf-api.onrender.com/docs)
 
+To enter the website you first need to register and log in.
 
-### HOW TO SETUP THE PROJECT AND RUN THE PROJECT LOCALLY
-01. For this project you will need to install Vite + React
-In the terminal navigate to the folder that you want the project to be in. Do not create a folder for the app, this will automatically be done for you. Run this command in the terminal to create the app; "npm create vite@latest". 
+### Built With
+01.JavaScript Frameworks
+Vite + React.jsx
 
-Once the installation is done open the react folder in Visual Studio Code. 
+02.CSS Frameworks
+Styled Components 
 
-In the terminal in Visual Studio Code write; "npm i" and then run "npm run dev". This process will start the development server. To access the development server copy the link from the terminal in VSC and paste the link in a browser window. 
+
+#### Getting Started
+01. Clone the repo
+git clone git@github.com:Silje32/Final_Project_Exam_2.git
+
+02. Install the dependencies
+In the terminal in Visual Studio Code write; "npm i" or "npm install".
 
 02. You also need to install React Router:
 To install React Router you simply just write the command; "npm install react-router-dom" in the terminal of VSC.
@@ -40,16 +44,28 @@ In the src folder make a .gitignore file and a .env file. Inside the .gitignore 
 
 In your .env file write the API URL. You also need to create an .env.example file. Here you write the same information in the same format but you exclude the details so the developer can use their own details to access the information. 
 
-#### Usage Instructions for the .env file : 
+##### Usage Instructions for the .env file
 1. Register an account here `https://app.api/register`
 2. Get your key from `https://app.api/account/keys`
 3. Visit `https://app.api/docs` for endpoints
 4. Enter username, key and target endpoint in `.env`
 
 
-##### ICONS : 
+###### Running
+To run the app, run the following command: "npm run dev". This process will start the development server. To access the development server copy the link from the terminal in VSC and paste the link in a browser window. 
+
+
+###### Icons
 01. For the Icons go to the webpage https://getemoji.com/
 You can copy paste the icons directly to your code.
+
+
+###### Contact 
+My LinkedIn page : 
+
+
+###### Acknowledgments
+My React teacher at Noroff Connor O´Brien helped me with this project.   
 
 
 
