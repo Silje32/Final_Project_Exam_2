@@ -61,7 +61,7 @@ You can copy paste the icons directly to your code.
 
 
 ###### Contact 
-My LinkedIn page : 
+My LinkedIn page : www.linkedin.com/in/silje-heldal-monsen-866229171
 
 
 ###### Acknowledgments
