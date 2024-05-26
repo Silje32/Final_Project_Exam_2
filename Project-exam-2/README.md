@@ -1,8 +1,7 @@
 # Project Exam 2
-## Brief
+## Description
 An existing Social Media company has approached you to create a brand new front end for their application. While they have a list of required features, the design and user experience has not been specified. Working with the official API documentation, plan, design and build a modern front end social media application.
 
-## Description
 All admin functionality is managed by an existing application. This project only covers the front-end application for the API. The API you are using for this project can be found under Social EndPoints in the [Noroff API documentation](https://noroff-api-docs.netlify.app/).
 
 [API Guide](https://noroff-api-docs.netlify.app/social-endpoints/authentication)
